@@ -2,9 +2,9 @@ body {
   margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
 }
-body a {
+/* body a { 
   color: #ffffff;
-}
+}*/
 ul {
   margin: 0px;
   padding: 0px;
@@ -77,4 +77,8 @@ a {
     padding: 8px 12px;
     font-size: 14px;
   }
+}
+a {
+  color: #ffffff !important;
+  text-decoration: underline !important;
 }

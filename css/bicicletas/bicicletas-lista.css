@@ -1,0 +1,9 @@
+
+.bicicletas-lista{
+    padding-bottom: 120px;
+    padding-top: 60px;
+}
+.bicicletas-lista ul{
+    display: flex;
+    gap: 40px;
+}

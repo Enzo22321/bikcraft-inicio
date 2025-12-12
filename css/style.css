@@ -14,10 +14,11 @@
 @import url(./home/parceiros.css);
 @import url(./home/depoimento.css);
 
-/*Bicicletas*/
+/*Bicicletas e 'Biciclta' interna*/
 @import url(./bicicletas/bicicletas-lista.css);
 @import url(./bicicletas/bicicletas.css);
-
+@import url(./bicicleta/bicicleta.css);
+@import url(./bicicleta/seguro.css);
 
 /*Seguros*/
 @import url(./seguros/seguros.css);
